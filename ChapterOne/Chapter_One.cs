@@ -1,35 +1,63 @@
 ﻿// See https://aka.ms/new-console-template for more information
-    class HelloCSharp{
-        static void Main(string[] args){
+class Run{
+    static void Main(string[] args){
+        ExerciseOne.One();
+    }
+}
+
+static class ExerciseOne{
+    public static void One(){
+
             Console.WriteLine("Exercise 4");
             Console.WriteLine("------------------");
             Console.WriteLine("Hello C#\n");
+    }
+}
+    
+class ExerciseTwo{
+    public static void Two(){
 
             Console.WriteLine("Exercise 5");
             Console.WriteLine("------------------");
             Console.WriteLine("Good Day!\n");
+    }
+}
+class ExerciseThree{
+    public static void Three(){
 
             Console.WriteLine("Exercise 6");
             Console.WriteLine("------------------");
             string firstname = "Kimbi";
             string lastname = "Favour";
             Console.WriteLine(firstname + " " + lastname + "\n");
+    }
+}
+class ExerciseFour{
+    public static void Four(){
+            Console.WriteLine("Exercise 7");
+            Console.WriteLine("------------------");
+            Console.WriteLine("1");
+            Console.WriteLine("101");
+            Console.WriteLine("1001");
+    }
+}
+class ExerciseFive{
+    public static void Five(){
+            Console.WriteLine("\nExercise 8");
+            Console.WriteLine("------------------");
+            DateTime currentDateTime = DateTime.Now;
+            Console.WriteLine("The current date and time is " + currentDateTime);
+    }
+}
+
+
 
             //DateTime dt = new DateTime(2022, 10, 30, 17, 27, 12);
             //Console.WriteLine(dt);
             //creating an obect of the DateTime structure and sets the values of the
             //year, month, day, hour, minute and second in that order
 
-            Console.WriteLine("Exercise 7");
-            Console.WriteLine("------------------");
-            Console.WriteLine("1");
-            Console.WriteLine("101");
-            Console.WriteLine("1001");
 
-            Console.WriteLine("\nExercise 8");
-            Console.WriteLine("------------------");
-            DateTime currentDateTime = DateTime.Now;
-            Console.WriteLine("The current date and time is " + currentDateTime);
 
             Console.WriteLine("\nExercise 9");
             Console.WriteLine("------------------");
@@ -52,5 +80,4 @@
             Console.WriteLine("How old are you? ");
             int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You will be " + age+10 + "in 10 years.");
-        }
-    }
+
