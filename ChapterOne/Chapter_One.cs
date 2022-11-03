@@ -5,9 +5,8 @@ class Run{
     }
 }
 
-static class ExerciseOne{
+public class ExerciseOne{
     public static void One(){
-
             Console.WriteLine("Exercise 4");
             Console.WriteLine("------------------");
             Console.WriteLine("Hello C#\n");
@@ -49,6 +48,37 @@ class ExerciseFive{
             Console.WriteLine("The current date and time is " + currentDateTime);
     }
 }
+class ExerciseNine{
+    public static void Nine(){
+            Console.WriteLine("\nExercise 9");
+            Console.WriteLine("------------------");
+            Console.Write("Enter a number to find its square root: ");
+            int value = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("The square root of " + value + " = " + Math.Sqrt(value));
+    }
+}
+class ExerciseTen{
+    public static void Ten(){
+            Console.WriteLine("\nExercise 10");
+            Console.WriteLine("------------------");
+            for(int i = 2; i<100; i++){
+                if(i%2 == 0){
+                    Console.WriteLine(i);
+                }
+                else
+                    Console.WriteLine(i*-1);
+            }
+    }
+}
+class ExerciseEleven{
+    public static void Eleven(){
+            Console.WriteLine("\nExercise 11");
+            Console.WriteLine("------------------");
+            Console.WriteLine("How old are you? ");
+            int age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("You will be " + age+10 + "in 10 years.");
+    }
+}
 
 
 
@@ -59,25 +89,4 @@ class ExerciseFive{
 
 
 
-            Console.WriteLine("\nExercise 9");
-            Console.WriteLine("------------------");
-            Console.Write("Enter a number to find its square root: ");
-            int value = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("The square root of " + value + " = " + Math.Sqrt(value));
-
-            Console.WriteLine("\nExercise 10");
-            Console.WriteLine("------------------");
-            for(int i = 2; i<100; i++){
-                if(i%2 == 0){
-                    Console.WriteLine(i);
-                }
-                else
-                    Console.WriteLine(i*-1);
-            }
-
-            Console.WriteLine("\nExercise 11");
-            Console.WriteLine("------------------");
-            Console.WriteLine("How old are you? ");
-            int age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You will be " + age+10 + "in 10 years.");
 
