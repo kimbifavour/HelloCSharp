@@ -1,0 +1,15 @@
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\bin\Debug\net6.0\ChapterTwo.exe
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\bin\Debug\net6.0\ChapterTwo.deps.json
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\bin\Debug\net6.0\ChapterTwo.runtimeconfig.json
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\bin\Debug\net6.0\ChapterTwo.dll
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\bin\Debug\net6.0\ChapterTwo.pdb
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.csproj.AssemblyReference.cache
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.AssemblyInfoInputs.cache
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.AssemblyInfo.cs
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.csproj.CoreCompileInputs.cache
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.dll
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\refint\ChapterTwo.dll
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.pdb
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.genruntimeconfig.cache
+C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ref\ChapterTwo.dll

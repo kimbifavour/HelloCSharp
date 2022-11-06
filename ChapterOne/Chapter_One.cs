@@ -2,6 +2,13 @@
 class Run{
     static void Main(string[] args){
         ExerciseOne.One();
+        ExerciseTwo.Two();
+        ExerciseThree.Three();
+        ExerciseFour.Four();
+        ExerciseFive.Five();
+        ExerciseNine.Nine();
+        ExerciseTen.Ten();
+        ExerciseEleven.Eleven();
     }
 }
 
@@ -40,6 +47,11 @@ class ExerciseFour{
             Console.WriteLine("1001");
     }
 }
+            //DateTime dt = new DateTime(2022, 10, 30, 17, 27, 12);
+            //Console.WriteLine(dt);
+            //creating an obect of the DateTime structure and sets the values of the
+            //year, month, day, hour, minute and second in that order
+            
 class ExerciseFive{
     public static void Five(){
             Console.WriteLine("\nExercise 8");
@@ -48,6 +60,7 @@ class ExerciseFive{
             Console.WriteLine("The current date and time is " + currentDateTime);
     }
 }
+
 class ExerciseNine{
     public static void Nine(){
             Console.WriteLine("\nExercise 9");
@@ -76,17 +89,7 @@ class ExerciseEleven{
             Console.WriteLine("------------------");
             Console.WriteLine("How old are you? ");
             int age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("You will be " + age+10 + "in 10 years.");
+            age = age+10;
+            Console.WriteLine("You will be " + age + "in 10 years.");
     }
 }
-
-
-
-            //DateTime dt = new DateTime(2022, 10, 30, 17, 27, 12);
-            //Console.WriteLine(dt);
-            //creating an obect of the DateTime structure and sets the values of the
-            //year, month, day, hour, minute and second in that order
-
-
-
-
