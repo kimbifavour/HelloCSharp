@@ -135,4 +135,3 @@ public class Exercises{
         Console.WriteLine("Value 1: " + value1 +"\nValue 2 " + value2);
     }
 }
-

@@ -1,0 +1,15 @@
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.csproj.AssemblyReference.cache
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.AssemblyInfoInputs.cache
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.AssemblyInfo.cs
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.csproj.CoreCompileInputs.cache
+D:\CODING\.NET\3_ChapterThree\bin\Debug\net6.0\3_ChapterThree.exe
+D:\CODING\.NET\3_ChapterThree\bin\Debug\net6.0\3_ChapterThree.deps.json
+D:\CODING\.NET\3_ChapterThree\bin\Debug\net6.0\3_ChapterThree.runtimeconfig.json
+D:\CODING\.NET\3_ChapterThree\bin\Debug\net6.0\3_ChapterThree.dll
+D:\CODING\.NET\3_ChapterThree\bin\Debug\net6.0\3_ChapterThree.pdb
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.dll
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\refint\3_ChapterThree.dll
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.pdb
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\3_ChapterThree.genruntimeconfig.cache
+D:\CODING\.NET\3_ChapterThree\obj\Debug\net6.0\ref\3_ChapterThree.dll

@@ -13,3 +13,18 @@ C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\r
 C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.pdb
 C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ChapterTwo.genruntimeconfig.cache
 C:\Users\SMAART INFORMATIQUE\OneDrive\Desktop\.NET\ChapterTwo\obj\Debug\net6.0\ref\ChapterTwo.dll
+D:\CODING\.NET\2_ChapterTwo\bin\Debug\net6.0\ChapterTwo.exe
+D:\CODING\.NET\2_ChapterTwo\bin\Debug\net6.0\ChapterTwo.deps.json
+D:\CODING\.NET\2_ChapterTwo\bin\Debug\net6.0\ChapterTwo.runtimeconfig.json
+D:\CODING\.NET\2_ChapterTwo\bin\Debug\net6.0\ChapterTwo.dll
+D:\CODING\.NET\2_ChapterTwo\bin\Debug\net6.0\ChapterTwo.pdb
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.csproj.AssemblyReference.cache
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.AssemblyInfoInputs.cache
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.AssemblyInfo.cs
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.csproj.CoreCompileInputs.cache
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.dll
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\refint\ChapterTwo.dll
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.pdb
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ChapterTwo.genruntimeconfig.cache
+D:\CODING\.NET\2_ChapterTwo\obj\Debug\net6.0\ref\ChapterTwo.dll
