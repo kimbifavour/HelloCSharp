@@ -13,6 +13,7 @@ public class ChapterThree{
     }
 
     public static void Two(){
+        console.WriteLine("Hello World!");
 
     }
 }
