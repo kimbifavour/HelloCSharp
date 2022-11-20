@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODING\\.NET\\3_ChapterThree\\3_ChapterThree.csproj": {}
+    "D:\\CODING\\hello-csharp\\3_ChapterThree\\3_ChapterThree.csproj": {}
   },
   "projects": {
-    "D:\\CODING\\.NET\\3_ChapterThree\\3_ChapterThree.csproj": {
+    "D:\\CODING\\hello-csharp\\3_ChapterThree\\3_ChapterThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODING\\.NET\\3_ChapterThree\\3_ChapterThree.csproj",
+        "projectUniqueName": "D:\\CODING\\hello-csharp\\3_ChapterThree\\3_ChapterThree.csproj",
         "projectName": "3_ChapterThree",
-        "projectPath": "D:\\CODING\\.NET\\3_ChapterThree\\3_ChapterThree.csproj",
-        "packagesPath": "C:\\Users\\SMAART INFORMATIQUE\\.nuget\\packages\\",
-        "outputPath": "D:\\CODING\\.NET\\3_ChapterThree\\obj\\",
+        "projectPath": "D:\\CODING\\hello-csharp\\3_ChapterThree\\3_ChapterThree.csproj",
+        "packagesPath": "C:\\Users\\Favour Kimbi\\.nuget\\packages\\",
+        "outputPath": "D:\\CODING\\hello-csharp\\3_ChapterThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SMAART INFORMATIQUE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Favour Kimbi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

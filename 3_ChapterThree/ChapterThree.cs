@@ -3,16 +3,18 @@
         // ChapterThree.One();
         // ChapterThree.Two();
         // ChapterThree.Three();
+        //ChapterThree.Four(); //not done
         // ChapterThree.Five();
         // ChapterThree.Six();
         // ChapterThree.Seven();
         // ChapterThree.Eight();
-        // ChapterThree.Nine(); Not done
+        // ChapterThree.Nine(); //Not done
         // ChapterThree.Ten();
         //ChapterThree.Eleven();
         //ChapterThree.Twelve();
-        //ChapterThree.Thirteen(); Redo
-        ChapterThree.Fourteen();
+        //ChapterThree.Thirteen(); // Redo with reduced complexity
+        //ChapterThree.Fourteen();
+        //ChapterThree.Fifteen(); // I don't get it
     }
 }
 
@@ -43,6 +45,10 @@ public class ChapterThree{
             else
                 Console.WriteLine("The third digit from the right of {0} is not 7", number);
         }
+    }
+
+    public static void Four(){
+
     }
 
     public static void Five(){
@@ -165,6 +171,22 @@ public class ChapterThree{
             }
             else
                 Console.WriteLine("{0} is not between 1 and 100 inclusive", n);
+        }
+
+        public static void Fifteen(){
+            int num = 28;
+            Console.WriteLine(num);
+            int bit3 = (num >> 3) & 1;
+            int bit24 = (num >> 24) & 1;
+            num = num & (~(1 << 24)) | (bit3 << 24);
+            num = num & (~(1 << 3)) | (bit24 << 3);
+            Console.WriteLine(bit3);
+            Console.WriteLine(bit24);
+            Console.WriteLine(num);
+        }
+
+        public static void Sixteen(){
+            Console.WriteLine("Not done ");
         }
 
 }
