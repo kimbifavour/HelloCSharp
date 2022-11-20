@@ -34,4 +34,13 @@ public class ChapterThree{
                 Console.WriteLine("The third digit from the right of {0} is not 7", number);
         }
     }
+
+    public static void Five(){
+        Console.WriteLine("\nFive: Area of a trapezoid \n....................");
+        int a = 5;
+        int b = 2;
+        int c = 6;
+        float area = ((a+b)/2)*c;
+        Console.WriteLine ("The area of a trapezoid with bases {0} and {1}, and height {2} is = {3}", a, b, c, area);
+    }
 }
