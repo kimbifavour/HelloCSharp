@@ -1,0 +1,15 @@
+D:\CODING\hello-csharp\5_ChapterFive\bin\Debug\net6.0\5_ChapterFive.exe
+D:\CODING\hello-csharp\5_ChapterFive\bin\Debug\net6.0\5_ChapterFive.deps.json
+D:\CODING\hello-csharp\5_ChapterFive\bin\Debug\net6.0\5_ChapterFive.runtimeconfig.json
+D:\CODING\hello-csharp\5_ChapterFive\bin\Debug\net6.0\5_ChapterFive.dll
+D:\CODING\hello-csharp\5_ChapterFive\bin\Debug\net6.0\5_ChapterFive.pdb
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.csproj.AssemblyReference.cache
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.AssemblyInfoInputs.cache
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.AssemblyInfo.cs
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.csproj.CoreCompileInputs.cache
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.dll
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\refint\5_ChapterFive.dll
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.pdb
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\5_ChapterFive.genruntimeconfig.cache
+D:\CODING\hello-csharp\5_ChapterFive\obj\Debug\net6.0\ref\5_ChapterFive.dll
