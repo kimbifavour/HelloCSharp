@@ -6,7 +6,7 @@ class Run{
     public static void Main(){
         // ChapterFour.One();
         // ChapterFour.Two();
-        // ChapterFour.Three();
+        ChapterFour.Three();
         // ChapterFour.Four();
         // ChapterFour.Five();
         // ChapterFour.Six();
@@ -51,7 +51,7 @@ class Run{
         
     public class Try{
         public static void TryParse(){
-            String? str = Console.ReadLine();
+            string? str = Console.ReadLine();
             int intValue;
             bool parseSuccess = Int32.TryParse(str, out intValue); //Parameters: a parsing string and a variable to store the result of successful parsing
             Console.WriteLine(parseSuccess? "The Square of the number is : " + (intValue * intValue) : "Invalid number");
@@ -71,10 +71,10 @@ class Run{
 
             
             Console.Write("Enter person name: ");
-            string person = Console.ReadLine();
+            string? person = Console.ReadLine();
             Console.Write("Enter book name: ");
-            string book = Console.ReadLine();
-            string from = "Authors Team";
+            string? book = Console.ReadLine();
+            string? from = "Authors Team";
             Console.WriteLine(" Dear {0},", person);
             Console.Write("We are pleased to inform " +
             "you that \"{1}\" is the best Bulgarian book. {2}" +
@@ -111,21 +111,21 @@ class Run{
 
         public static void Three(){
             Console.Write("Company Name: ");
-            String company_name = Console.ReadLine();
+            string? company_name = Console.ReadLine();
             Console.Write("Company Address: ");
-            String company_address = Console.ReadLine();
+            string? company_address = Console.ReadLine();
             Console.Write("Company Website: ");
-            String website = Console.ReadLine();
+            string? website = Console.ReadLine();
             Console.Write("Phone Number: ");
             int phone_number = Int32.Parse(Console.ReadLine());
             Console.Write("Fax Number: ");
             int fax_number = Int32.Parse(Console.ReadLine());
             Console.Write("Manager Firstname: ");
-            String manager_name = Console.ReadLine();
+            string? manager_name = Console.ReadLine();
             Console.Write("Manager Surname: ");
-            String manager_surname = Console.ReadLine();
+            string? manager_surname = Console.ReadLine();
             Console.Write("Manager Number: ");
-            int manager_number = Int32.Parse(Console.ReadLine());
+            int manager_number = int.Parse(Console.ReadLine());
 
             Console.WriteLine("\nCompany Info\nCompany Name: {0}\nCompany Address: {1}\nCompany Website: {2}\nPhone Number: {3}" + 
             "\nFax Number: {4}\r\n\nManagerInfo\n*First Name: {5}\n*Surname: {6}\n*Phone Number: {7}", 
