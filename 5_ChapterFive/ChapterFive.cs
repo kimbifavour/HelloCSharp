@@ -91,8 +91,8 @@ class ChapterFive{
 
                     else {
 
-                        if((num1 > num3 && num1 == num2) || (num2 > num3 && num2 == num1));
-                        Console.WriteLine(num1 + " is the biggest");
+                        if((num1 > num3 && num1 == num2) || (num2 > num3 && num2 == num1))
+                            Console.WriteLine(num1 + " is the biggest");
                     }
                 }
 
