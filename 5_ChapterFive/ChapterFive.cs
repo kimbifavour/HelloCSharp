@@ -7,7 +7,8 @@ class Run{
         // ChapterFive.Three();
         // ChapterFive.Four();
         // ChapterFive.Five();
-        ChapterFive.Six();
+        // ChapterFive.Six();
+        ChapterFive.Eight();
 
     }
 }
@@ -253,5 +254,36 @@ class ChapterFive{
         //greatest of five numbers
 
         Console.WriteLine("\n.........................\nSeven: The greatest of five numbers");
+    }
+
+
+    public static void Eight(){
+
+        Console.WriteLine("\n.........................\nEight: User's Choice");
+        Console.Write("Enter a choice: \n1 - Integer\n2- Double\n3- String\nChoice: ");
+        int choice = int.Parse(Console.ReadLine());
+
+
+        switch (choice){
+
+            case 1:
+                Console.Write("Enter Integer: ");
+                int val = int.Parse(Console.ReadLine());
+                Console.WriteLine("Value + 1 = " + (val + 1));
+                break;
+
+            case 2: 
+                Console.Write("Enter Double: ");
+                double value = double.Parse(Console.ReadLine());
+                Console.WriteLine("Value + 1 = " + (value + 1));
+                break;
+
+            case 3: 
+                Console.Write("Enter String: ");
+                string str = Console.ReadLine();
+                Console.WriteLine("Value + * = " + str + "*");
+                break;
+                
+        }
     }
 }
