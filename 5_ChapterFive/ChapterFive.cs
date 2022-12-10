@@ -8,7 +8,8 @@ class Run{
         // ChapterFive.Four();
         // ChapterFive.Five();
         // ChapterFive.Six();
-        ChapterFive.Eight();
+        // ChapterFive.Eight();
+        ChapterFive.Nine();
 
     }
 }
@@ -285,5 +286,17 @@ class ChapterFive{
                 break;
                 
         }
+    }
+
+
+    public static void Nine(){
+
+        Console.WriteLine("\n.........................\nNine: Sum Equal to Zero");
+        int a = 4;
+        int b = 22;
+        int c = 3;
+        int d = -2;
+        int e = -12;
+
     }
 }
