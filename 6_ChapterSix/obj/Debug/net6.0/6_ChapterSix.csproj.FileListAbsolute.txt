@@ -1,0 +1,15 @@
+D:\CODING\hello-csharp\6_ChapterSix\bin\Debug\net6.0\6_ChapterSix.exe
+D:\CODING\hello-csharp\6_ChapterSix\bin\Debug\net6.0\6_ChapterSix.deps.json
+D:\CODING\hello-csharp\6_ChapterSix\bin\Debug\net6.0\6_ChapterSix.runtimeconfig.json
+D:\CODING\hello-csharp\6_ChapterSix\bin\Debug\net6.0\6_ChapterSix.dll
+D:\CODING\hello-csharp\6_ChapterSix\bin\Debug\net6.0\6_ChapterSix.pdb
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.csproj.AssemblyReference.cache
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.AssemblyInfoInputs.cache
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.AssemblyInfo.cs
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.csproj.CoreCompileInputs.cache
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.dll
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\refint\6_ChapterSix.dll
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.pdb
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\6_ChapterSix.genruntimeconfig.cache
+D:\CODING\hello-csharp\6_ChapterSix\obj\Debug\net6.0\ref\6_ChapterSix.dll
