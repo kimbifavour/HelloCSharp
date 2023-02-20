@@ -1,0 +1,15 @@
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.csproj.AssemblyReference.cache
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.AssemblyInfoInputs.cache
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.AssemblyInfo.cs
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.csproj.CoreCompileInputs.cache
+D:\CODING\hello-csharp\7_ChapterSeven\bin\Debug\net7.0\7_ChapterSeven.exe
+D:\CODING\hello-csharp\7_ChapterSeven\bin\Debug\net7.0\7_ChapterSeven.deps.json
+D:\CODING\hello-csharp\7_ChapterSeven\bin\Debug\net7.0\7_ChapterSeven.runtimeconfig.json
+D:\CODING\hello-csharp\7_ChapterSeven\bin\Debug\net7.0\7_ChapterSeven.dll
+D:\CODING\hello-csharp\7_ChapterSeven\bin\Debug\net7.0\7_ChapterSeven.pdb
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.dll
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\refint\7_ChapterSeven.dll
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.pdb
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\7_ChapterSeven.genruntimeconfig.cache
+D:\CODING\hello-csharp\7_ChapterSeven\obj\Debug\net7.0\ref\7_ChapterSeven.dll
