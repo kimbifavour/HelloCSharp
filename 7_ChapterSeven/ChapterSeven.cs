@@ -324,3 +324,42 @@ class Exercises{
 
         }
     }
+
+
+        public static void Three(){
+        string[] arrayOne = {"babylon"};
+        string[] arrayTwo = {"babylon"};
+
+        int minLength = Math.Min(arrayOne.GetLength(0), arrayTwo.GetLength(0));
+
+        for(int i=0; i<minLength; i++){
+            if(arrayOne.GetLength(0) < arrayTwo.GetLength(0)){
+                Console.WriteLine("Array One is first");
+                break;
+            }
+
+            else if (arrayOne.GetLength(0) > arrayTwo.GetLength(0)){
+                Console.WriteLine("Array Two is first");
+                break;
+                
+            }
+            else if(arrayOne[i] != arrayTwo[i]){
+
+                int greater = String.Compare(arrayOne[i], arrayTwo[i]);
+                
+                if(greater == 1){
+                    Console.WriteLine("Array two is first in the Lexicographical order");
+                    
+                }
+
+                else if (greater == -1){
+                    Console.WriteLine("Array one is first in the Lexicographical order");
+                    
+                }
+
+            }
+                else{
+                    Console.WriteLine("The two arrays are equal");
+                }
+        }
+    }
