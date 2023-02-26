@@ -1,12 +1,6 @@
 ﻿// CLASSES AND ARRAYS
 
-using System;
-
-class Run{
-    static void Main(){
-        Exercises.Three();
-    }
-}
+// using system;
 
 // namespace MyVehicle{
 
@@ -163,106 +157,7 @@ class MaxPlatform2x2 {
     }
 }
 
-
-//Array of Arrays (Jagged Arrays)
-
-
-// Chapter 7 Exercises
-
-class Exercises{
-    // Printing elements of an array
-
-    public static void One(){
-        int[] arrayOfElements = new int[20];
-
-        Console.Write("[");
-        for(int i=0; i<20; i++){
-            arrayOfElements[i] = i*5;
-            Console.Write(" " + arrayOfElements[i]);
-        }
-        Console.Write(" ]");
-    }
-
-
-    public static void Two(){
-        // Equality of two arrays
-
-        Console.Write("Number of elements in Array 1: ");
-        int arrayOneLength = int.Parse(Console.ReadLine());
-
-        Console.Write("Number of elements in Array 2: ");
-        int arrayTwoLength = int.Parse(Console.ReadLine());
-
-        int[] arrayOne = new int[arrayOneLength];
-        int[] arrayTwo = new int[arrayTwoLength];
-
-        if(arrayOneLength != arrayTwoLength){
-            Console.WriteLine("The lengths of the array have to be thesame for them to be equal");
-        }
-
-        else{ 
-
-            Console.WriteLine("Elements of Array 1");
-            for(int i = 0; i<arrayOneLength; i++){
-            Console.Write("Array[" + i + "]: ");
-            arrayOne[i] = int.Parse(Console.ReadLine());
-            }
-
-            Console.WriteLine("Elements of Array 2");
-            for(int i = 0; i<arrayTwoLength; i++){
-            Console.Write("Array[" + i + "]: ");
-            arrayTwo[i] = int.Parse(Console.ReadLine());
-            } 
-
-            for(int i = 0; i<arrayOneLength; i++){
-                if(arrayOne[i] != arrayTwo[i]){
-                    Console.WriteLine("Arrays are not equal");
-                }
-
-                else{
-                    Console.WriteLine("Arrays are equal");
-                }
-            } 
-
-        }
-    }
-
-
-    public static void Three(){
-        string[] arrayOne = {"babylon"};
-        string[] arrayTwo = {"babylon"};
-
-        int minLength = Math.Min(arrayOne.GetLength(0), arrayTwo.GetLength(0));
-
-        for(int i=0; i<minLength; i++){
-            if(arrayOne.GetLength(0) < arrayTwo.GetLength(0)){
-                Console.WriteLine("Array One is first");
-                break;
-            }
-
-            else if (arrayOne.GetLength(0) > arrayTwo.GetLength(0)){
-                Console.WriteLine("Array Two is first");
-                break;
-                
-            }
-            else if(arrayOne[i] != arrayTwo[i]){
-
-                int greater = String.Compare(arrayOne[i], arrayTwo[i]);
-                
-                if(greater == 1){
-                    Console.WriteLine("Array two is first in the Lexicographical order");
-                    
-                }
-
-                else if (greater == -1){
-                    Console.WriteLine("Array one is first in the Lexicographical order");
-                    
-                }
-
-            }
-                else{
-                    Console.WriteLine("The two arrays are equal");
-                }
-        }
-    }
+Console.WriteLine("Reversed Array");
+for(i = 0; i<6; i++){
+    Console.WriteLine(revArray[i]);
 }
